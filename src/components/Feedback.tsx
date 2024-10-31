@@ -8,7 +8,7 @@ function Feedback(){
 
             <div className="flex mt-9">
             <div className=" shadow-lg container h-56 w-[380px] bg-white mt-12 ml-10 font-semibold mb-7">
-                <Image className="ml-5" src="/commas.PNG" alt="impression" height={30} width={30}/>
+                <Image className="ml-5" src="/commas.png" alt="impression" height={30} width={30}/>
                 <h1 className="text-green-900 mt-4 ml-5"> Emily Wilson </h1>
                 <p className="mt-4 ml-5"> The customer experience was exceptional from
                 <br/>start to finish. The website is user-friendly, the
@@ -18,7 +18,7 @@ function Feedback(){
             </div>
 
             <div className="shadow-lg container h-56 w-[390px] bg-green-200 mt-12 ml-6 font-semibold mb-7">
-                <Image className="ml-5 bg-green-200" src="/comma2.PNG" alt="impression" height={30} width={30}/>
+                <Image className="ml-5 bg-green-200" src="/comma2.png" alt="impression" height={30} width={30}/>
                 <h1 className="text-green-900 mt-4 ml-5"> Sarah Thompson </h1>
                 <p className="mt-4 ml-3">I absolutely love the quality and style of
                 <br/>clothing I purchased from the website. Customer<br/>service was outstanding, and I received my order
@@ -33,7 +33,7 @@ function Feedback(){
                 </div>
                 
             <div className="shadow-lg container h-56 w-[380px] bg-white mt-12 ml-6 font-semibold mb-24">
-                <Image className="ml-5" src="/commas.PNG" alt="impression" height={30} width={30}/>
+                <Image className="ml-5" src="/commas.png" alt="impression" height={30} width={30}/>
                 <h1 className="text-green-900 mt-4 ml-5"> Olivia Martinez </h1>
                 <p className="mt-4 ml-4">I had a great experience shopping on this
                 <br/>websites. The clothes I bought are fashionable
