@@ -20,9 +20,8 @@ function Feedback() {
           <p className="mt-4 ml-5">
             {" "}
             The customer experience was exceptional from start to finish.
-            <br />
             The website is user-friendly, the checkout process was smooth,
-            <br/> and the clothes I ordered fit perfectly.
+             and the clothes I ordered fit perfectly.
              I am beyond satisfied!
           </p>
         </div>
